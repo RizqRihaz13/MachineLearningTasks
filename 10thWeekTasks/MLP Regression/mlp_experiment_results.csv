@@ -1,0 +1,3 @@
+hidden_layers,activation,epochs,learning_rate,batch_size,final_train_loss,final_test_loss
+[4],relu,50,0.01,32,0.4632317997515202,0.45507648289203645
+[8],relu,50,0.01,32,0.43224068358540535,0.41346379220485685
