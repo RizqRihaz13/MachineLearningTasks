@@ -1,4 +1,0 @@
-Dataset,SVM,Decision Tree,Random Forest,XGBoost,Neural Network
-Linear,1.0,0.99,1.0,1.0,1.0
-Sinusoidal,0.98,1.0,1.0,1.0,0.99
-Random Cluster,0.99,0.93,0.96,0.97,0.98
